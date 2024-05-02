@@ -13,7 +13,7 @@ export default function Footer() {
             alt="kancara logo"
           />
         </Link>
-        <p>© 2022 Kancara. All rights reserved</p>
+        <p>© 2024 Kancara. All rights reserved</p>
       </div>
     </footer>
   );
